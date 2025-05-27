@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AllTestsSuite">
+  <test name="AuthenticationTests">
+    <classes>
+      <class name="com.supriya.jbk.authentication.tests.LoginTest"/>
+      <class name="com.supriya.jbk.authentication.tests.RegisterTest"/>
+      <class name="com.supriya.jbk.authentication.tests.DashboardTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

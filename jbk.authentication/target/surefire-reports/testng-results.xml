@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-27T12:29:08Z" name="AllTestsSuite" finished-at="2025-05-27T12:29:18Z" duration-ms="10626">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T12:29:08Z" name="AuthenticationTests" finished-at="2025-05-27T12:29:18Z" duration-ms="10626">
+      <class name="com.supriya.jbk.authentication.tests.DashboardTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3e11f9e9]" started-at="2025-05-27T12:29:15Z" name="setUp" finished-at="2025-05-27T12:29:17Z" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DashboardPageTest()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3e11f9e9]" started-at="2025-05-27T12:29:17Z" name="DashboardPageTest" finished-at="2025-05-27T12:29:18Z" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DashboardPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3e11f9e9]" started-at="2025-05-27T12:29:18Z" name="tearDown" finished-at="2025-05-27T12:29:18Z" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.supriya.jbk.authentication.tests.DashboardTest -->
+      <class name="com.supriya.jbk.authentication.tests.RegisterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@6404f418]" started-at="2025-05-27T12:29:12Z" name="setUp" finished-at="2025-05-27T12:29:14Z" duration-ms="2038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerToApplicationTest()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@6404f418]" started-at="2025-05-27T12:29:14Z" name="registerToApplicationTest" finished-at="2025-05-27T12:29:15Z" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerToApplicationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@6404f418]" started-at="2025-05-27T12:29:15Z" name="tearDown" finished-at="2025-05-27T12:29:15Z" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.supriya.jbk.authentication.tests.RegisterTest -->
+      <class name="com.supriya.jbk.authentication.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@316bcf94]" started-at="2025-05-27T12:29:08Z" name="setUp" finished-at="2025-05-27T12:29:10Z" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginToApplicationTest()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@316bcf94]" started-at="2025-05-27T12:29:10Z" name="loginToApplicationTest" finished-at="2025-05-27T12:29:11Z" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplicationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@316bcf94]" started-at="2025-05-27T12:29:11Z" name="tearDown" finished-at="2025-05-27T12:29:12Z" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.supriya.jbk.authentication.tests.LoginTest -->
+    </test> <!-- AuthenticationTests -->
+  </suite> <!-- AllTestsSuite -->
+</testng-results>
