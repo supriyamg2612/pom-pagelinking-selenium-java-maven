@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-18T13:34:30Z" name="AllTestsSuite" finished-at="2025-06-18T13:34:51Z" duration-ms="21389">
+  <suite started-at="2026-02-16T18:20:52Z" name="AllTestsSuite" finished-at="2026-02-16T18:21:08Z" duration-ms="16305">
     <groups>
     </groups>
-    <test started-at="2025-06-18T13:34:30Z" name="AuthenticationTests" finished-at="2025-06-18T13:34:51Z" duration-ms="21389">
+    <test started-at="2026-02-16T18:20:52Z" name="AuthenticationTests" finished-at="2026-02-16T18:21:08Z" duration-ms="16305">
       <class name="com.supriya.jbk.authentication.tests.DashboardTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3e11f9e9]" started-at="2025-06-18T13:34:44Z" name="setUp" finished-at="2025-06-18T13:34:50Z" duration-ms="5683" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3a44431a]" started-at="2026-02-16T18:21:05Z" name="setUp" finished-at="2026-02-16T18:21:07Z" duration-ms="2240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="DashboardPageTest()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3e11f9e9]" started-at="2025-06-18T13:34:50Z" name="DashboardPageTest" finished-at="2025-06-18T13:34:51Z" duration-ms="1432" status="PASS">
+        <test-method signature="DashboardPageTest()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3a44431a]" started-at="2026-02-16T18:21:07Z" name="DashboardPageTest" finished-at="2026-02-16T18:21:08Z" duration-ms="930" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DashboardPageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3e11f9e9]" started-at="2025-06-18T13:34:51Z" name="tearDown" finished-at="2025-06-18T13:34:51Z" duration-ms="208" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.DashboardTest@3a44431a]" started-at="2026-02-16T18:21:08Z" name="tearDown" finished-at="2026-02-16T18:21:08Z" duration-ms="261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.supriya.jbk.authentication.tests.DashboardTest -->
       <class name="com.supriya.jbk.authentication.tests.RegisterTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@6404f418]" started-at="2025-06-18T13:34:38Z" name="setUp" finished-at="2025-06-18T13:34:42Z" duration-ms="3372" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@2ea41516]" started-at="2026-02-16T18:21:01Z" name="setUp" finished-at="2026-02-16T18:21:04Z" duration-ms="2267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="registerToApplicationTest()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@6404f418]" started-at="2025-06-18T13:34:42Z" name="registerToApplicationTest" finished-at="2025-06-18T13:34:44Z" duration-ms="2190" status="PASS">
+        <test-method signature="registerToApplicationTest()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@2ea41516]" started-at="2026-02-16T18:21:04Z" name="registerToApplicationTest" finished-at="2026-02-16T18:21:05Z" duration-ms="1010" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerToApplicationTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@6404f418]" started-at="2025-06-18T13:34:44Z" name="tearDown" finished-at="2025-06-18T13:34:44Z" duration-ms="394" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.RegisterTest@2ea41516]" started-at="2026-02-16T18:21:05Z" name="tearDown" finished-at="2026-02-16T18:21:05Z" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.supriya.jbk.authentication.tests.RegisterTest -->
       <class name="com.supriya.jbk.authentication.tests.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@316bcf94]" started-at="2025-06-18T13:34:30Z" name="setUp" finished-at="2025-06-18T13:34:37Z" duration-ms="6657" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@3ee37e5a]" started-at="2026-02-16T18:20:52Z" name="setUp" finished-at="2026-02-16T18:21:00Z" duration-ms="8171" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginToApplicationTest()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@316bcf94]" started-at="2025-06-18T13:34:37Z" name="loginToApplicationTest" finished-at="2025-06-18T13:34:38Z" duration-ms="1252" status="PASS">
+        <test-method signature="loginToApplicationTest()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@3ee37e5a]" started-at="2026-02-16T18:21:00Z" name="loginToApplicationTest" finished-at="2026-02-16T18:21:01Z" duration-ms="957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApplicationTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@316bcf94]" started-at="2025-06-18T13:34:38Z" name="tearDown" finished-at="2025-06-18T13:34:38Z" duration-ms="171" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.supriya.jbk.authentication.tests.LoginTest@3ee37e5a]" started-at="2026-02-16T18:21:01Z" name="tearDown" finished-at="2026-02-16T18:21:01Z" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

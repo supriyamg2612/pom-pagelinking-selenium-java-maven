@@ -21,7 +21,7 @@ public class RegisterTest {
     public void setUp() {
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver");
         driver = new ChromeDriver();
-        driver.get("file:///Users/supriya/Desktop/Selenium%20Software/Offline%20Website/index.html");
+        driver.get("file:///Users/supriya/Documents/JBK/javabykiran-Selenium-Softwares%203/Offline%20Website/index.html");
         lp = new LoginPage(driver);
     }
 	 @Test
