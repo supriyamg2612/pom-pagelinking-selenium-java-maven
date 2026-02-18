@@ -1,2 +1,2 @@
 # pom-pagelinking-selenium-java-maven
-Selenium WebDriver automation framework using Page Object Model (POM) and TestNG.
+Selenium WebDriver automation framework Page Linking  TestNG.
